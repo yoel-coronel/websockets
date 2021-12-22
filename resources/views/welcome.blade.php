@@ -43,8 +43,7 @@
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2 text-center">
-                        <h1>Real Time -
-                            <b>WebSockets FOVIPOL</b>
+                        <h1>Real Time -WebSockets FOVIPOL</h1>
                     </div>
                 </div>
 
